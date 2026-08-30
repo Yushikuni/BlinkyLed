@@ -1,0 +1,33 @@
+# --- STM32CubeIDE / Eclipse build složky ---
+Debug/
+Release/
+build/
+
+# --- Pracovní soubory a nastavení IDE ---
+.settings/
+.project
+.cproject
+.launch
+.pydevproject
+.metadata/
+.gdb_history
+
+# --- Dočasné a záložní soubory ---
+*.bak
+*.tmp
+*.swp
+*.log
+
+# --- Binární a kompilační výstupy (pro jistotu, kdyby vznikly jinde) ---
+*.o
+*.su
+*.cyclo
+*.elf
+*.bin
+*.hex
+*.map
+*.d
+
+# --- Operační systém ---
+.DS_Store
+Thumbs.db

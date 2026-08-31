@@ -1,5 +1,7 @@
 # 🧙‍♀️ One Button. Three Modes. One Slightly Overengineered STM32.
 
+[C] [STM32] [HAL] [ST-LINK] [Build] [License] [Platform] [GitHub Actions] [Made with ❤️] [100% Human] [Coffee Powered] ☕💀
+
 A small STM32 Nucleo project where **one button controls three different modes**.
 Because apparently making an LED blink wasn't enough. 😄
 

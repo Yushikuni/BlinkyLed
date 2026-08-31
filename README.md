@@ -144,3 +144,7 @@ And suddenly I have an armed embedded system talking to me.
 
 ## 📖 Related Article
 Coming soon: the full write-up covering the implementation, debugging process and the decisions behind the project.
+
+
+## 🎥 Demo
+![BlinkyLed demo](docs/demo.gif)
